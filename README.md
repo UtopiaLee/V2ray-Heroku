@@ -5,7 +5,7 @@
 
 部署完成后，每次启动应用时，运行的 V2Ray 将始终为最新版本。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/UtopiaLee/V2ray-Heroku.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/UtopiaLee/V2ray-Heroku)
 
 ## 部署
 
